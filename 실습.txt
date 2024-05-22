@@ -20,3 +20,9 @@ GitStudy2에다가 fetch하고 pull 하면
 원격에서 업데이트된 GitStudy의 내용을 GitStudy2로 들고 올 수 있다.
 (최신화, 동기화시키는 작업 - fetch : 깃 허브의 내 폴더와 로컬의 폴더가
 다른지 비교, - pull)
+
+깃허브 새 리포지토리 로컬과 연결 후 첫 push -
+파일만듦 > git bash, git init > 리포지토리 첫 박스 밑에 줄
+복사 > git bash에 붙여놓기 > 파일 내용 add, commit > 두 번째줄 복붙
+> 첫 push 완료
+
