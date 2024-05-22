@@ -1,0 +1,22 @@
+1. GitStudy2 폴더 만들기
+2. GitStudy2 폴더를 git 저장소로 등록 >> git init
+3. 텍스트파일 생성
+4. add > commit
+5. Github Repository >> git_study2
+6. GitStudy2폴더의 git 저장소와 git_study2 origin 리모트 저장소 연결
+7. main 브랜치 최초 push
+8. 새 텍스트파일 하나 더 추가
+9. add > commit > push
+
+git fetch : 깃 패치하고 pull 하면 원격에 있던 최신 버전을 로컬로
+들고 올 수 있다.
+
+패치 실습 : 원격에 있던 git_study 폴더를 clone으로 로컬에 들고오는데
+clone할 때 이름을 GitStudy로 바꾼다.
+한 번 더 git_study를 받아오는데 clone 할 때 이번에는 이름을 
+GitStudy2로 한다.
+GitStudy 사용자 정보에 내용을 추가하고 add, commit, push한다.
+GitStudy2에다가 fetch하고 pull 하면
+원격에서 업데이트된 GitStudy의 내용을 GitStudy2로 들고 올 수 있다.
+(최신화, 동기화시키는 작업 - fetch : 깃 허브의 내 폴더와 로컬의 폴더가
+다른지 비교, - pull)
